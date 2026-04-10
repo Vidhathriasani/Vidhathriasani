@@ -1,6 +1,6 @@
 # Hi, I'm Vidhathri 👋  
 
-I’m a **DevOps Engineer** with 5+ years of experience designing and running cloud infrastructure that is fast, reliable, and secure.  
+I’m a **DevOps Engineer** with 6+ years of experience designing and running cloud infrastructure that is fast, reliable, and secure.  
 Most of my work revolves around **automation, containerization, and CI/CD pipelines** — ensuring applications move smoothly and safely from development into production.  
 
 ---
